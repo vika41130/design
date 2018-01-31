@@ -1,2 +1,25 @@
-1. mask
-2. 
+https://www.youtube.com/watch?v=MVbKj5BFtQ0
+w1: Effect, Stylize, Drop Shadow
+w2: Make another Shapde, Send to Back, Opacity, Color, Blending Mode, ...
+w3: Make a similar, smaller shape, Opacity, Blending Mode, Color, Set to suitable position
+
+https://www.youtube.com/watch?v=qC5CVq8Msok
+w4: Make another, Drag, Set Front, Color(White), let origin shape be Shadow
+w5: Blend Tool, 
+short or long shadow
+Blending Mode(Transparency, )
+
+w6: make mask
+https://www.youtube.com/watch?v=P5sDjpNCS-A
+
+w7
+Flat Design Long Shadows
+https://www.youtube.com/watch?v=Tm3ugB0vj-k
+one: 
+Shape: Circle
+1. Draw an Area to the right of the Circle, Black, Opacity
+2. Draw a Square, set it back of origin Shape and Area, Color
+3. Copy Square, Ctrl F, Select Square and Area, Intersect
+two:
+Blend Tool
+2 shapes/2 line,...: blend tool, spicified distance 1px, second line/shape: opacity: 0
