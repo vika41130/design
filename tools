@@ -14,3 +14,6 @@ alt + drag: delete
 Blending Mode, Multiply 2 Color: Mixed Color
 
 Object, Path, Join: join two anchors
+
+Smooth Tool, drag over: Smooth anchor point
+
