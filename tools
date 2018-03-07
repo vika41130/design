@@ -1,7 +1,8 @@
 Scissor
 
-Offset Path (Object)
+Object, Offset Path
 for stroke, shape
+multiply stroke, shape
 
 Pathfinder
 Unite: 
