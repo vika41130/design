@@ -9,7 +9,8 @@ Unite:
 
 Live Paint Bucket
 
-Shape Builder Tool: merge multiple segment of shape: drag mouse
+Shape Builder Tool: merge multiple shapes
+Selection Tool, drag mouse to join
 alt + drag: delete
 
 Blending Mode, Multiply 2 Color: Mixed Color
